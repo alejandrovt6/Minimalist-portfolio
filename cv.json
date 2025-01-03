@@ -1,0 +1,272 @@
+{
+    "basics": {
+      "name": "Alejandro",
+      "label": "Full Stack Developer",
+      "image": "/src/assets/images/profile.jpg",
+      "email": "alejandrovt.dev@gmail.com",
+      "phone": "+34 000 00 00 00",
+      "url": "google.es",
+      "summary": "I'm Alejandro. Currently, I work as a cybersecurity analyst while also developing and designing websites. I have also participated in group projects that have improved my social and technical skills. If you're looking for someone with a passion for development and cybersecurity and initiative to face new challenges, don't hesitate to contact me. I am open to collaboration opportunities.",
+      "location": {
+        "address": "",
+        "postalCode": "00000",
+        "city": "Málaga",
+        "countryCode": "ES",
+        "region": "España"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Alejandro",
+          "url": "https://www.linkedin.com/in/alejandrovivt/"
+        },
+        {
+          "network": "X",
+          "username": "Alejandro",
+          "url": "https://x.com/"
+        },
+        {
+          "network": "GitHub",
+          "username": "Alejandro",
+          "url": "https://github.com/alejandrovt6"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Name1",
+        "position": "Web Developer",
+        "url": "google.com",
+        "startDate": "2021-01-01",
+        "endDate": null,
+        "summary": "lorem ipsum",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Name2",
+        "position": "Lead Frontend Architect",
+        "url": "google.com",
+        "startDate": "2016-06-01",
+        "endDate": "2022-09-01",
+        "summary": "lorem ipsum.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Name3",
+        "position": "Senior FrontEnd Developer",
+        "startDate": "2011-03-01",
+        "endDate": "2016-05-01",
+        "summary": "lorem ipsum.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Eduplat",
+      "position": "Volunteer",
+      "url": "https://eduplat.org/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Volunteer"
+      ]
+    }],
+    "education": [{
+      "institution": "Cesur",
+      "url": "google.com",
+      "area": "Dev",
+      "studyType": "Dev",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "lorem ipsum",
+      "keywords": [
+        "lorem ipsum",
+        "lorem ipsum"
+      ]
+    }],
+    "references": [{
+      "name": "lorem ipsum",
+      "reference": "lorem ipsum"
+    }],
+    "projects": [
+      {
+        "name": "x",
+        "isActive": true,
+        "description": "lorem ipsum",
+        "highlights": [
+          "Elige tu propia aventura",
+          "En desarrollo"
+        ],
+        "url": "https://google.com"
+      },
+      {
+        "name": "x",
+        "isActive": true,
+        "description": "lorem ipsum",
+        "highlights": [
+        ],
+        "url": "https://google.com"
+      },
+      {
+        "name": "x",
+        "isActive": true,
+        "description": "lorem ipsum",
+        "highlights": [
+          "+2000 usuarios activos",
+          "Retos para cualquier lenguaje"
+        ],
+        "url": "https://codember.dev"
+      },
+      {
+        "name": "x",
+        "isActive": true,
+        "description": "lorem ipsum",
+        "highlights": [
+          "100k visitas al mes",
+          "Desarrollado por la comunidad"
+        ],
+        "url": "https://codi.link",
+        "github": "https://github.com/"
+      },
+      {
+        "name": "x",
+        "isActive": true,
+        "description": "lorem ipsum",
+        "highlights": [
+          "100% gratuito",
+          "+500 soluciones de la comunidad"
+        ],
+        "url": "https://pruebastecnicas.com",
+        "github": "https://github.com/midudev"
+      },
+      {
+        "name": "x",
+        "description": "lorem ipsum",
+        "highlights": [
+          "+15k tickets repartidos",
+          "+50k espectadores en directo"
+        ],
+        "url": "https://google.com"
+      }
+    ]
+  }
