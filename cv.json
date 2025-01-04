@@ -12,7 +12,7 @@
         "postalCode": "00000",
         "city": "Málaga",
         "countryCode": "ES",
-        "region": "España"
+        "region": "Spain"
       },
       "profiles": [
         {
@@ -35,7 +35,7 @@
     "work": [
       {
         "name": "Name1",
-        "position": "Web Developer",
+        "position": "Cybersecurity Analyst",
         "url": "google.com",
         "startDate": "2021-01-01",
         "endDate": null,
@@ -46,7 +46,7 @@
       },
       {
         "name": "Name2",
-        "position": "Lead Frontend Architect",
+        "position": "Web Developer",
         "url": "google.com",
         "startDate": "2016-06-01",
         "endDate": "2022-09-01",
@@ -57,7 +57,8 @@
       },
       {
         "name": "Name3",
-        "position": "Senior FrontEnd Developer",
+        "position": "FrontEnd Developer",
+        "url": "https://google.com",
         "startDate": "2011-03-01",
         "endDate": "2016-05-01",
         "summary": "lorem ipsum.",
@@ -69,7 +70,7 @@
     "volunteer": [{
       "organization": "Eduplat",
       "position": "Volunteer",
-      "url": "https://eduplat.org/",
+      "url": "https://google.com",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
@@ -235,7 +236,7 @@
           "+2000 usuarios activos",
           "Retos para cualquier lenguaje"
         ],
-        "url": "https://codember.dev"
+        "url": "https://google.com"
       },
       {
         "name": "x",
@@ -245,7 +246,7 @@
           "100k visitas al mes",
           "Desarrollado por la comunidad"
         ],
-        "url": "https://codi.link",
+        "url": "https://google.com",
         "github": "https://github.com/"
       },
       {
@@ -256,8 +257,8 @@
           "100% gratuito",
           "+500 soluciones de la comunidad"
         ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev"
+        "url": "https://google.com",
+        "github": "https://github.com"
       },
       {
         "name": "x",
