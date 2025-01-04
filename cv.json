@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Alejandro",
-      "label": "Full Stack Developer",
+      "label": "Full Stack Developer & Cybersecurity Analyst",
       "image": "/src/assets/images/profile.jpg",
       "email": "alejandrovt.dev@gmail.com",
       "phone": "+34 000 00 00 00",
       "url": "google.es",
-      "summary": "I'm Alejandro. Currently, I work as a cybersecurity analyst while also developing and designing websites. I have also participated in group projects that have improved my social and technical skills. If you're looking for someone with a passion for development and cybersecurity and initiative to face new challenges, don't hesitate to contact me. I am open to collaboration opportunities.",
+      "summary": "I'm Alejandro. Currently, I work as a Cybersecurity Analyst while also developing and designing websites. I have also participated in group projects that have improved my social and technical skills. If you're looking for someone with a passion for development and cybersecurity and initiative to face new challenges, don't hesitate to contact me. I am open to collaboration opportunities.",
       "location": {
         "address": "",
         "postalCode": "00000",
@@ -211,61 +211,63 @@
     }],
     "projects": [
       {
-        "name": "x",
+        "name": "CodeCraft",
         "isActive": true,
-        "description": "lorem ipsum",
+        "description": "An interactive platform for learning programming through hands-on projects",
         "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
+          "Over 50 guided projects",
+          "Support for 10 programming languages"
         ],
         "url": "https://google.com"
       },
       {
-        "name": "x",
+        "name": "DataViz Pro",
         "isActive": true,
-        "description": "lorem ipsum",
+        "description": "Data visualization tool with integration of multiple sources",
         "highlights": [
+          "Compatibility with popular APIs",
+          "Real-time interactive charts"
         ],
         "url": "https://google.com"
       },
       {
-        "name": "x",
+        "name": "AICodeReview",
         "isActive": true,
-        "description": "lorem ipsum",
+        "description": "AI-powered automated code review system",
         "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
+          "Integration with GitHub and GitLab",
+          "Detection of inefficient code patterns"
         ],
         "url": "https://google.com"
       },
       {
-        "name": "x",
+        "name": "CloudStack",
         "isActive": true,
-        "description": "lorem ipsum",
+        "description": "Cloud infrastructure management platform for developers",
         "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
+          "Support for multiple cloud providers",
+          "Powerful command-line interface"
         ],
         "url": "https://google.com",
         "github": "https://github.com/"
       },
       {
-        "name": "x",
+        "name": "SecureCode",
         "isActive": true,
-        "description": "lorem ipsum",
+        "description": "Security analysis tool for web and mobile applications",
         "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
+          "Automatic vulnerability scanning",
+          "Detailed security reports"
         ],
         "url": "https://google.com",
         "github": "https://github.com"
       },
       {
-        "name": "x",
-        "description": "lorem ipsum",
+        "name": "DevOpsHub",
+        "description": "All-in-one platform for software development lifecycle management",
         "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
+          "Continuous integration and continuous deployment",
+          "Real-time application monitoring"
         ],
         "url": "https://google.com"
       }
